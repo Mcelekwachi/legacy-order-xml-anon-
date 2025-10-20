@@ -1,0 +1,21 @@
+:K1:PO-EXAMPLE-001
+:K2:CLIENTACCOUNT
+:K3:SHIP-REF-XYZ
+:K4:2025-10-21
+:UB10:
+:O4:Example Recipient
+:O4:1234AB CityName
+:P2:ITEM-001
+:P4:LINE-001
+:O72:2
+:P5:Color: White
+:P6:WidthMM: 1200
+:UE:
+:UB10:
+:O4:Example Recipient
+:O4:1234AB CityName
+:P2:ITEM-002
+:P4:LINE-002
+:P1:1
+:P7:HeightMM: 1500
+:UE:
